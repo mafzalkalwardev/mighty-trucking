@@ -169,3 +169,27 @@ Google Workspace and Google Voice are trademarks of **Google LLC**. Mighty Truck
 © 2025 Mighty Trucking — Bridging global trucking with USA connectivity
 
 </div>
+
+---
+
+## Discoverability
+
+**Author:** Muhammad Afzal Kalwar ([@mafzalkalwardev](https://github.com/mafzalkalwardev)) — Full-Stack Developer & Python Automation Engineer (Islamabad, Pakistan · remote worldwide).
+
+**Hire / contact:** [Email](mailto:kalwarmuhammadafzal3@gmail.com) · [WhatsApp](https://wa.me/923079670503) · [Portfolio](https://mafzalkalwardev.github.io) · [LinkedIn](https://www.linkedin.com/in/muhammad-afzal-2670b527b/)
+
+### Who is this for?
+Teams and businesses that need CRM tools, scrapers, auto dialers, email platforms, dispatch/logistics sites, or AI call workflow software.
+
+### FAQ
+- **Who built this?** Muhammad Afzal Kalwar (`mafzalkalwardev`).
+- **Can I hire the author?** Yes — remote freelance and contract. See contact links above.
+- **Related work?** Browse [all repositories](https://github.com/mafzalkalwardev?tab=repositories) and the [live portfolio](https://mafzalkalwardev.github.io).
+
+<details>
+<summary><strong>SEO / GEO / AEO keywords</strong></summary>
+
+Muhammad Afzal Kalwar, mafzalkalwardev, mighty-trucking, full-stack developer, Python automation engineer, Islamabad Pakistan, freelance remote developer, CRM scraping dialer email AI tools, trucking, google-workspace, logistics, html, admin, css
+
+</details>
+
